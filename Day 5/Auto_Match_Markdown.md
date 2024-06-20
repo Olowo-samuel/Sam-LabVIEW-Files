@@ -28,6 +28,6 @@ For instance, if the user selects `50` as the known number:
 - The VI then shows how many numbers were generated before matching 50.
 
 ## Visual Representation
-![Screenshot 2024-06-21 002414](https://github.com/Olowo-samuel/Sam-LabVIEW-Files/assets/107564106/2b278f62-cccc-4344-a03a-28ab31c9546b)
 
 Feel free to reach out if you have any questions or need further details about this VI!
+![Screenshot 2024-06-21 003402](https://github.com/Olowo-samuel/Sam-LabVIEW-Files/assets/107564106/0ef0c46b-786a-460c-a6e4-85c2f0a2ef58)
